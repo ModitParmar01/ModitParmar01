@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Modit
 - 👀 I’m interested in cloud technology
-- 🌱 I’m currently learning c++ language
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me 》》@modit987@gmail.com
 
