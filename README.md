@@ -1,4 +1,16 @@
-### Hi there 👋
+### About me
+Hi, I am Modit. A second year B.Tech student who is interest in Data Science and Machine Learning.
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JAVA      |
+|     2| CPP       |
+|     3| Python    |
+  
+</details>
 
 <!--
 **ModitParmar01/ModitParmar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
