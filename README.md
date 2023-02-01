@@ -1,5 +1,5 @@
 ### About me
-Hi, I am Modit. A second year B.Tech student who is interest in Data Science and Machine Learning.
+Hi, I am Modit. A second year B.Tech student who is interested in Data Science and Machine Learning.
 
 <details>
 <summary>My top languages</summary>
